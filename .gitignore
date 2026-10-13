@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Assignment source material and provided data are not part of the public submission.
+PROBLEM_STATEMENT.docx
+DATA_MODEL.md
+openapi.yaml
+sample_data/
+sample_seed.py
