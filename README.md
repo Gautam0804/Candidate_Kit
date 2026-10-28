@@ -19,10 +19,7 @@
   <a href="#-architecture">🏗️ Architecture</a>
 </p>
 
-<!-- TODO: add a screenshot of the /docs page (Swagger UI) -->
-![API Docs](./docs/swagger.png)
 
----
 
 ## 💡 The Problem
 
