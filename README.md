@@ -2,7 +2,8 @@
 
 <p align="center">
   <b>Track employee attendance, handle manual corrections, and get monthly analytics through a clean REST API.</b><br/>
-  Built with FastAPI and MongoDB, with interactive API docs out of the box.
+  Built with FastAPI and MongoDB, 
+  with interactive API docs out of the box.
 </p>
 
 <p align="center">
